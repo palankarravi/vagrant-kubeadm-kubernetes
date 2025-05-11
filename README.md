@@ -1,6 +1,8 @@
 
 # Vagrantfile and Scripts to Automate Kubernetes Setup using Kubeadm [Practice Environment for CKA/CKAD and CKS Exams]
 
+### blog reference : https://devopscube.com/kubernetes-cluster-vagrant/
+
 A fully automated setup for CKA, CKAD, and CKS practice labs is tested on the following systems:
 
 - Windows
